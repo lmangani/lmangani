@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://miro.medium.com/max/800/1*BivnuZyfCZOJpBLqg62MOQ.gif">
 
 <!--
 **lmangani/lmangani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
