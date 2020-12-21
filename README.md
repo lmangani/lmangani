@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/max/800/1*BivnuZyfCZOJpBLqg62MOQ.gif" width=400><img src="https://qxip.net/images/qxip_logo.png" width=400>
+<img src="https://miro.medium.com/max/800/1*BivnuZyfCZOJpBLqg62MOQ.gif" width=300><img src="https://qxip.net/images/qxip_logo.png" width=500>
 
 <!--
 **lmangani/lmangani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
