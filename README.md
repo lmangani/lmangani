@@ -1,6 +1,6 @@
 <img src="https://miro.medium.com/max/800/1*BivnuZyfCZOJpBLqg62MOQ.gif" width=300><img src="https://qxip.net/images/qxip_logo.png" width=500>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lmangani&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmangani&hide=TeX&layout=compact)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lmangani&show_icons=true&count_private=true&hide_rank=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmangani&hide=TeX&layout=compact&count_private=true)
 
 
 <!--
