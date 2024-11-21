@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/max/800/1*BivnuZyfCZOJpBLqg62MOQ.gif" width=300><img src="https://qxip.net/images/qxip_logo.png" width=500>
+<img src="https://miro.medium.com/max/800/1*BivnuZyfCZOJpBLqg62MOQ.gif" width=300><img src="https://github.com/user-attachments/assets/2bff0235-c673-4e4c-8ce9-ff5e5bcf37b0" width=500>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
